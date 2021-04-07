@@ -1,3 +1,4 @@
 # Patatap-Clone
 This Project is a clone of website called Patatap is a visual sound kit application with animations by computer programmer Jono Brandel and Japanese electronic duo Lullatone, consisting of Shawn James Seymour and Yoshimi Tomida.
-To see This PRoject work Click: https://tanzgr8.github.io/Patatap-Clone/
+To see This PRoject work Click : https://tanzgr8.github.io/Patatap-Clone/ 
+You just have to press any letter key on keyboard and see the magic :)
